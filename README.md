@@ -1,3 +1,3 @@
 Welcome
 
-![loslaasolasolasolasolas](https://komarev.com/ghpvc/?bananadev-frfr)
+![](https://komarev.com/ghpvc/?username=bananadev-frfr)
