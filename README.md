@@ -1,3 +1,6 @@
 Welcome
 
-![](https://komarev.com/ghpvc/?username=bananadev-frfr) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=bananadev-frfr)
+
+![Bananadev-frfr's GitHub stats](https://github-readme-stats.vercel.app/api?username=bananadev-frfr&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&compact=true)
+
