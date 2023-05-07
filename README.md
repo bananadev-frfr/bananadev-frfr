@@ -1,4 +1,4 @@
-Welcome to my GitHub page, I mostly focus on project creation.
+Banana here.
 
 My repos: [TabMask](https://github.com/bananaontop/TabMask)
 
